@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Pinino14
-- 👀 I’m interested in web design
-- 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on henry
 - 📫 How to reach me pininojr on instagram
 
 <!---
